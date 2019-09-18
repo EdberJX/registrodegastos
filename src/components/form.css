@@ -1,0 +1,8 @@
+.form-container{
+    position: absolute;
+    z-index: 20;
+    top:30%;
+    padding: 20px;
+    font-weight: bold;
+ 
+}
